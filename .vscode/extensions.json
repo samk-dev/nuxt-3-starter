@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "mikestead.dotenv",
+    "dbaeumer.vscode-eslint",
+    "codezombiech.gitignore",
+    "davidanson.vscode-markdownlint",
+    "esbenp.prettier-vscode",
+    "pmneo.tsimporter",
+    "vue.vscode-typescript-vue-plugin",
+    "vue.volar",
+    "CelianRiboulet.webvalidator"
+  ]
+}
